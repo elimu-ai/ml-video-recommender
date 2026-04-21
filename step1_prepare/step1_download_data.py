@@ -11,9 +11,9 @@ videos_dataframe.to_csv('step1_videos.csv', index=False)
 with open('step1_video_learning_events.csv', 'w') as f:
     pass
 students_url = 'https://raw.githubusercontent.com/elimu-ai/ml-datasets/main/lang-ENG/students.csv'
-# print(os.path.basename(__file__), 'students_url: {}'.format(students_url))
+print(os.path.basename(__file__), 'students_url: {}'.format(students_url))
 students_dataframe = pandas.read_csv(students_url)
-# print(os.path.basename(__file__), 'students_dataframe: \n{}'.format(students_dataframe))
+print(os.path.basename(__file__), 'students_dataframe: \n{}'.format(students_dataframe))
 student_ids = students_dataframe['id'].copy()
 
 if not student_ids.empty:
