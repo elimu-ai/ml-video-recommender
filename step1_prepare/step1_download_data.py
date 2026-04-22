@@ -26,7 +26,7 @@ for student_id in students_dataframe['id']:
     video_learning_events_dataframe = video_learning_events_dataframe.drop(columns=['id'])
 
     # Add the student ID as a column in the DataFrame since it is not already included
-    video_learning_events_dataframe['student_id'] = student_id
+    video_learning_events_dataframe.insert(0, 'student_id', student_id)
 
     print(os.path.basename(__file__), f'video_learning_events_dataframe.size: {video_learning_events_dataframe.size}')
     if (video_learning_events_dataframe.size > 0):
