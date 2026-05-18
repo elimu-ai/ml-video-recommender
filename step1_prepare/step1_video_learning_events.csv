@@ -3085,6 +3085,12 @@ student_id,timestamp,package_name,additional_data,research_experiment,experiment
 5,1778805108,ai.elimu.filamu,{'video_playback_position_ms': 29606},,,akili and me - letter d,4
 5,1778805227,ai.elimu.filamu,,,,akili and me - letter a,1
 5,1778805268,ai.elimu.filamu,{'video_playback_position_ms': 45866},,,akili and me - letter a,1
+5,1778889796,ai.elimu.filamu,,,,akili and me - letter b,2
+5,1778889800,ai.elimu.filamu,{'video_playback_position_ms': 17426},,,akili and me - letter b,2
+5,1778889821,ai.elimu.filamu,,,,akili and me - letter d,4
+5,1778889852,ai.elimu.filamu,{'video_playback_position_ms': 47013},,,akili and me - letter d,4
+5,1778889900,ai.elimu.filamu,,,,akili and me - letter a,1
+5,1778889926,ai.elimu.filamu,{'video_playback_position_ms': 17768},,,akili and me - letter a,1
 6,1749511662,ai.elimu.filamu,,,,akili and me - letter b,2
 6,1749511710,ai.elimu.filamu,{'video_playback_position_ms': 56528},,,akili and me - letter b,2
 6,1749511754,ai.elimu.filamu,,,,akili and me - the rectangle song,13
