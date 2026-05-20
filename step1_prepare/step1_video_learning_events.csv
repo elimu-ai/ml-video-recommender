@@ -3091,6 +3091,48 @@ student_id,timestamp,package_name,additional_data,research_experiment,experiment
 5,1778889852,ai.elimu.filamu,{'video_playback_position_ms': 47013},,,akili and me - letter d,4
 5,1778889900,ai.elimu.filamu,,,,akili and me - letter a,1
 5,1778889926,ai.elimu.filamu,{'video_playback_position_ms': 17768},,,akili and me - letter a,1
+5,1779062852,ai.elimu.filamu,,,,akili and me - letter c,3
+5,1779062896,ai.elimu.filamu,{'video_playback_position_ms': 21079},,,akili and me - letter c,3
+5,1779062967,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5,1779062990,ai.elimu.filamu,{'video_playback_position_ms': 52727},,,akili and me - the rectangle song,13
+5,1779063094,ai.elimu.filamu,,,,akili and me - letter b,2
+5,1779063140,ai.elimu.filamu,{'video_playback_position_ms': 22491},,,akili and me - letter b,2
+5,1779149779,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5,1779149804,ai.elimu.filamu,{'video_playback_position_ms': 45171},,,akili and me - the rectangle song,13
+5,1779149902,ai.elimu.filamu,,,,akili and me - letter c,3
+5,1779149931,ai.elimu.filamu,{'video_playback_position_ms': 8236},,,akili and me - letter c,3
+5,1779149959,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5,1779150010,ai.elimu.filamu,{'video_playback_position_ms': 53442},,,akili and me - the rectangle song,13
+5,1779150094,ai.elimu.filamu,,,,[test] a test video,44
+5,1779150126,ai.elimu.filamu,{'video_playback_position_ms': 31320},,,[test] a test video,44
+5,1779150226,ai.elimu.filamu,,,,akili and me - letter d,4
+5,1779150275,ai.elimu.filamu,{'video_playback_position_ms': 44783},,,akili and me - letter d,4
+5,1779150346,ai.elimu.filamu,,,,akili and me - letter b,2
+5,1779150349,ai.elimu.filamu,{'video_playback_position_ms': 27667},,,akili and me - letter b,2
+5,1779150387,ai.elimu.filamu,,,,akili and me - letter c,3
+5,1779150405,ai.elimu.filamu,{'video_playback_position_ms': 6378},,,akili and me - letter c,3
+5,1779150465,ai.elimu.filamu,,,,akili and me - letter d,4
+5,1779150513,ai.elimu.filamu,{'video_playback_position_ms': 13133},,,akili and me - letter d,4
+5,1779150556,ai.elimu.filamu,,,,[test] a test video,44
+5,1779150568,ai.elimu.filamu,{'video_playback_position_ms': 37916},,,[test] a test video,44
+5,1779150617,ai.elimu.filamu,,,,akili and me - letter a,1
+5,1779150659,ai.elimu.filamu,{'video_playback_position_ms': 39187},,,akili and me - letter a,1
+5,1779150675,ai.elimu.filamu,,,,akili and me - letter a,1
+5,1779150705,ai.elimu.filamu,{'video_playback_position_ms': 21415},,,akili and me - letter a,1
+5,1779150766,ai.elimu.filamu,,,,akili and me - letter d,4
+5,1779150787,ai.elimu.filamu,{'video_playback_position_ms': 47907},,,akili and me - letter d,4
+5,1779150864,ai.elimu.filamu,,,,[test] a test video,44
+5,1779150871,ai.elimu.filamu,{'video_playback_position_ms': 10684},,,[test] a test video,44
+5,1779150897,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5,1779150923,ai.elimu.filamu,{'video_playback_position_ms': 54266},,,akili and me - the rectangle song,13
+5,1779150979,ai.elimu.filamu,,,,akili and me - letter b,2
+5,1779151014,ai.elimu.filamu,{'video_playback_position_ms': 40852},,,akili and me - letter b,2
+5,1779151101,ai.elimu.filamu,,,,akili and me - letter c,3
+5,1779151144,ai.elimu.filamu,{'video_playback_position_ms': 3639},,,akili and me - letter c,3
+5,1779151226,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5,1779151271,ai.elimu.filamu,{'video_playback_position_ms': 56312},,,akili and me - the rectangle song,13
+5,1779151378,ai.elimu.filamu,,,,akili and me - letter b,2
+5,1779151389,ai.elimu.filamu,{'video_playback_position_ms': 32181},,,akili and me - letter b,2
 6,1749511662,ai.elimu.filamu,,,,akili and me - letter b,2
 6,1749511710,ai.elimu.filamu,{'video_playback_position_ms': 56528},,,akili and me - letter b,2
 6,1749511754,ai.elimu.filamu,,,,akili and me - the rectangle song,13
@@ -8547,6 +8589,12 @@ student_id,timestamp,package_name,additional_data,research_experiment,experiment
 7,1778977257,ai.elimu.filamu,{'video_playback_position_ms': 51914},,,akili and me - letter c,3
 7,1778977337,ai.elimu.filamu,,,,[test] a test video,44
 7,1778977367,ai.elimu.filamu,{'video_playback_position_ms': 6148},,,[test] a test video,44
+7,1779151425,ai.elimu.filamu,,,,[test] a test video,44
+7,1779151484,ai.elimu.filamu,{'video_playback_position_ms': 59761},,,[test] a test video,44
+7,1779151590,ai.elimu.filamu,,,,akili and me - letter i,33
+7,1779151614,ai.elimu.filamu,{'video_playback_position_ms': 44698},,,akili and me - letter i,33
+7,1779151640,ai.elimu.filamu,,,,[test] a test video,44
+7,1779151696,ai.elimu.filamu,{'video_playback_position_ms': 2496},,,[test] a test video,44
 8,1749775644,ai.elimu.filamu,,,,akili and me - letter b,2
 8,1749775646,ai.elimu.filamu,,,,,2
 8,1749775647,ai.elimu.filamu,,,,[test] a test video,44
