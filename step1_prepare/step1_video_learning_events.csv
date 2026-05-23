@@ -3163,6 +3163,26 @@ student_id,timestamp,package_name,additional_data,research_experiment,experiment
 5,1779323417,ai.elimu.filamu,{'video_playback_position_ms': 13585},,,akili and me - letter i,33
 5,1779323436,ai.elimu.filamu,,,,akili and me - the rectangle song,13
 5,1779323473,ai.elimu.filamu,{'video_playback_position_ms': 33914},,,akili and me - the rectangle song,13
+5,1779408789,ai.elimu.filamu,,,,akili and me - letter a,1
+5,1779408840,ai.elimu.filamu,{'video_playback_position_ms': 10781},,,akili and me - letter a,1
+5,1779408908,ai.elimu.filamu,,,,[test] a test video,44
+5,1779408957,ai.elimu.filamu,{'video_playback_position_ms': 30302},,,[test] a test video,44
+5,1779408976,ai.elimu.filamu,,,,akili and me - the rectangle song,13
+5,1779409022,ai.elimu.filamu,{'video_playback_position_ms': 9516},,,akili and me - the rectangle song,13
+5,1779409081,ai.elimu.filamu,,,,[test] a test video,44
+5,1779409109,ai.elimu.filamu,{'video_playback_position_ms': 57698},,,[test] a test video,44
+5,1779409167,ai.elimu.filamu,,,,akili and me - letter a,1
+5,1779409177,ai.elimu.filamu,{'video_playback_position_ms': 34880},,,akili and me - letter a,1
+5,1779409243,ai.elimu.filamu,,,,[test] a test video,44
+5,1779409273,ai.elimu.filamu,{'video_playback_position_ms': 41327},,,[test] a test video,44
+5,1779409359,ai.elimu.filamu,,,,akili and me - letter d,4
+5,1779409383,ai.elimu.filamu,{'video_playback_position_ms': 58641},,,akili and me - letter d,4
+5,1779409434,ai.elimu.filamu,,,,akili and me - letter i,33
+5,1779409454,ai.elimu.filamu,{'video_playback_position_ms': 20490},,,akili and me - letter i,33
+5,1779409534,ai.elimu.filamu,,,,[test] a test video,44
+5,1779409554,ai.elimu.filamu,{'video_playback_position_ms': 15175},,,[test] a test video,44
+5,1779409626,ai.elimu.filamu,,,,[test] a test video,44
+5,1779409661,ai.elimu.filamu,{'video_playback_position_ms': 52091},,,[test] a test video,44
 6,1749511662,ai.elimu.filamu,,,,akili and me - letter b,2
 6,1749511710,ai.elimu.filamu,{'video_playback_position_ms': 56528},,,akili and me - letter b,2
 6,1749511754,ai.elimu.filamu,,,,akili and me - the rectangle song,13
